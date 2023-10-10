@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 TMUX=$(which tmux)
 SED=$(which sed)
 BC=$(which bc)
